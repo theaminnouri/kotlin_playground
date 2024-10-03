@@ -37,3 +37,10 @@ fun takeCareOfCats(cats: Herd<Cat>) {
 
 //    feedALL(cats)
 }
+
+
+class Herd2<T : Animal>(var leadAnimal: T, vararg animals: T)
+
+
+// has private val and variance rules covers external misuses
+class Herd3<out T : Animal>(private var leadAnimal: T, vararg animals: T)
