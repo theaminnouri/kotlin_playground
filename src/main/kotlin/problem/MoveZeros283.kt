@@ -1,6 +1,6 @@
 package org.example.problem
 
-object MoveZeros_283 {
+object MoveZeros283 {
 
     fun execute() {
         val nums = intArrayOf(0, 1, 0, 3, 12)

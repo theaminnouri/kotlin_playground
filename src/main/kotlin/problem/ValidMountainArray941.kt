@@ -1,6 +1,6 @@
 package org.example.problem
 
-object ValidMountainArray_941 {
+object ValidMountainArray941 {
 
     fun execute() {
         val intArray = intArrayOf(0, 3, 2, 1)

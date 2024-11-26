@@ -2,7 +2,7 @@ package org.example.problem
 
 import kotlin.math.max
 
-object LongestSubstringWithoutRepeatingCharacters_3 {
+object LongestSubstringWithoutRepeatingCharacters3 {
 
     fun execute() {
         println(lengthOfLongestSubstring("abcabcbb"))

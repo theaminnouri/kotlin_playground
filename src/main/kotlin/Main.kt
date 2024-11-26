@@ -1,8 +1,6 @@
 package org.example
 
-import org.example.problem.FindFristAndLastPositionOfElementInSortedArray_34
-import org.example.problem.LongestSubstringWithoutRepeatingCharacters_3
-import org.example.problem.MoveZeros_283
+import org.example.problem.FirstBadVersion278
 
 fun main() {
 //    ContainerWithMostWater_11.execute()
@@ -10,5 +8,6 @@ fun main() {
 //    BoatsToSavePeople_881.execute()
 //    MoveZeros_283.execute()
 //    LongestSubstringWithoutRepeatingCharacters_3.execute()
-    FindFristAndLastPositionOfElementInSortedArray_34.execute()
+//    FindFirstAndLastPositionOfElementInSortedArray_34.execute()
+    FirstBadVersion278.execute()
 }

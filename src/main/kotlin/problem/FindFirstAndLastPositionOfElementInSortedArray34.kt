@@ -1,6 +1,6 @@
 package org.example.problem
 
-object FindFristAndLastPositionOfElementInSortedArray_34 {
+object FindFirstAndLastPositionOfElementInSortedArray34 {
 
     fun execute() {
         println(searchRange(intArrayOf(5, 6, 6, 6, 6, 8, 10, 10), 6).toList())

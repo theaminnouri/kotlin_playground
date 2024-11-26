@@ -2,7 +2,7 @@ package org.example.problem
 
 import kotlin.math.min
 
-object ContainerWithMostWater_11 {
+object ContainerWithMostWater11 {
 
     fun execute() {
         val ints = intArrayOf(1, 8, 6, 2, 5, 4, 8, 3, 7)

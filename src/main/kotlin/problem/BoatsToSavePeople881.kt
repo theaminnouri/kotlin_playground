@@ -1,6 +1,6 @@
 package org.example.problem
 
-object BoatsToSavePeople_881 {
+object BoatsToSavePeople881 {
 
 
     fun execute() {
