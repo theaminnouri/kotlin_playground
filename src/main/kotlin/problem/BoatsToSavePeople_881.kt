@@ -1,4 +1,4 @@
-package org.example
+package org.example.problem
 
 object BoatsToSavePeople_881 {
 

@@ -1,4 +1,4 @@
-package org.example
+package org.example.problem
 
 import kotlin.math.min
 
@@ -7,8 +7,8 @@ object ContainerWithMostWater_11 {
     fun execute() {
         val ints = intArrayOf(1, 8, 6, 2, 5, 4, 8, 3, 7)
 
-        println(ContainerWithMostWater_11.maxArea(ints))
-        println(ContainerWithMostWater_11.optimumMaxArea(ints))
+        println(maxArea(ints))
+        println(optimumMaxArea(ints))
     }
 
     fun maxArea(height: IntArray): Int {
