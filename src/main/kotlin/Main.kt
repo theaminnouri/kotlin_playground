@@ -1,7 +1,6 @@
 package org.example
 
-import org.example.problem.CountPrimes204
-import org.example.problem.FirstBadVersion278
+import org.example.problem.SingleNumber136
 
 fun main() {
 //    ContainerWithMostWater_11.execute()
@@ -11,5 +10,6 @@ fun main() {
 //    LongestSubstringWithoutRepeatingCharacters_3.execute()
 //    FindFirstAndLastPositionOfElementInSortedArray_34.execute()
 //    FirstBadVersion278.execute()
-    CountPrimes204.execute()
+//    CountPrimes204.execute()
+    SingleNumber136.execute()
 }
