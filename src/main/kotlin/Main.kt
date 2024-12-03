@@ -1,6 +1,6 @@
 package org.example
 
-import org.example.problem.RobotReturnToOrigin657
+import org.example.problem.AddBinary67
 
 fun main() {
 //    ContainerWithMostWater_11.execute()
@@ -12,6 +12,7 @@ fun main() {
 //    FirstBadVersion278.execute()
 //    CountPrimes204.execute()
 //    SingleNumber136.execute()
-    RobotReturnToOrigin657.execute()
+//    RobotReturnToOrigin657.execute()
+    AddBinary67.execute()
 }
 
