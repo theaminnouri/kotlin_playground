@@ -94,6 +94,6 @@ object ErrorHandlingInADefaultJob {
 //        launch()
 //        async()
 //        handledException()
-//        supervisorJob()
+        supervisorJob()
     }
 }

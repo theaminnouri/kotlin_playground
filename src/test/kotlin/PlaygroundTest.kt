@@ -27,7 +27,7 @@ class PlaygroundTest {
         }
         println(currentTime) // 0
 
-        delay(600.milliseconds)
+        delay(600.milliseconds) // just these delay that write in this coroutine move machine virtual time
         assertEquals(1, x)
         println(currentTime) // 600
 
@@ -54,7 +54,7 @@ class PlaygroundTest {
             delay(800.milliseconds)
             x++
         }
-        println(currentTime)
+        println(currentTime) // 0
         assertEquals(0, x)
         println("runCurrent")
         runCurrent()
